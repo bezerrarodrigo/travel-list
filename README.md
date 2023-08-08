@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Simple practical study project but with the fundamental concepts of state management in their basic form.
 
 ## Available Scripts
 
