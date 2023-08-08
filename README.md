@@ -1,4 +1,4 @@
-# A travel items iist app created with Create React App
+# A travel items list app created with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 Simple practical study project but with the fundamental concepts of state management in their basic form.
@@ -40,6 +40,6 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
+## Screen
 
 <img src="src/travel-list.jpg"/>
